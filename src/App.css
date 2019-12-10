@@ -20,3 +20,36 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+.special_button {
+    margin: 15px 15px 15px 0;
+    height: 75px;
+    width: 75px;
+    font-size: 24px;
+    border-radius: 50px;
+    color: white;
+    background-color: #0060AA;
+    border-color: #0060AA;
+    box-shadow: 0px 5px #322c2d;
+}
+.operator_button {
+    margin: 15px 15px 15px 0;
+    height: 75px;
+    width: 75px;
+    font-size: 24px;
+    border-radius: 50px;
+    color: white;
+    background-color: #00B5E2;
+    border-color: #00B5E2;
+    box-shadow: 0px 5px #322c2d;
+}
+.number_button {
+    margin: 15px 15px 15px 0;
+    height: 75px;
+    width: 75px;
+    font-size: 24px;
+    border-radius: 50px;
+    color: white;
+    background-color: #003C76;
+    border-color: #003C76;
+    box-shadow: 0px 5px #322c2d;
+}
