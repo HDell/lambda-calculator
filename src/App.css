@@ -6,8 +6,12 @@
     border: 2px solid grey;
     padding-bottom: 25px;
 }
+.logo-container {
+    margin: 30px 0 0 20px;
+}
 .display {
     margin-top: 25px;
+    margin-left: 15px;
     height: 100px;
     width: 450px;
     border-radius: 50px;
@@ -20,3 +24,39 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+.calc_button {
+    margin: 25px 15px 15px 15px;
+    height: 100px;
+    width: 100px;
+    font-size: 24px;
+    border-radius: 50px;
+    color: white;
+    box-shadow: 0px 5px #322c2d;
+}
+.special_button {
+    background-color: #0060AA;
+    border-color: #0060AA;
+}
+.operator_button {
+    background-color: #00B5E2;
+    border-color: #00B5E2;
+    margin-right: 35px;
+}
+.number_button {
+    background-color: #003C76;
+    border-color: #003C76;
+}
+.number_zero {
+    width: 230px;
+}
+.Cols {
+    display: flex;
+}
+.Operators {
+    display: flex;
+    flex-direction: column;
+}
+.Numbers {
+    display: flex;
+    flex-wrap: wrap;
+}
